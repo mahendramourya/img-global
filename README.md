@@ -16,7 +16,7 @@ post-fields<br>
    git clone https://github.com/mahendramourya/img-global.git
 2. composer update
 3. php artisan migrate:fresh --seed
-4. php artisah serve
+4. php artisan serve
 
 This open url in browser:
 http://127.0.0.1:8000/login
