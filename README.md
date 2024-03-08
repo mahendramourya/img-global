@@ -5,7 +5,7 @@ And also have api that is use for getting all type of products and it is work wi
 
 #api url:
 url:    http://127.0.0.1:8000/api/get-products <br>
-type:   post
+type:   post<br>
 post-fields
         price_start:300
         price_end:300
