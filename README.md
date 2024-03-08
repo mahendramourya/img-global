@@ -18,12 +18,12 @@ post-fields<br>
 3. php artisan migrate:fresh --seed
 4. php artisan serve
 
-Open url in browser:
-http://127.0.0.1:8000/login
-username: user@test.com
-password: password
+Open url in browser:<br>
+http://127.0.0.1:8000/login<br>
+username: user@test.com<br>
+password: password<br>
 
-After login you can save the product with below url:
+After login you can save the product with below url:<br>
 http://127.0.0.1:8000/product-create
 
 
