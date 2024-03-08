@@ -18,7 +18,7 @@ post-fields<br>
 3. php artisan migrate:fresh --seed
 4. php artisan serve
 
-This open url in browser:
+Open url in browser:
 http://127.0.0.1:8000/login
 username: user@test.com
 password: password
