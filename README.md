@@ -20,6 +20,12 @@ post-fields<br>
 
 This open url in browser:
 http://127.0.0.1:8000/login
+username: user@test.com
+password: password
+
+After login you can save the product with below url:
+http://127.0.0.1:8000/product-create
+
 
 
        
