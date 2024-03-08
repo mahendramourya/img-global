@@ -12,7 +12,7 @@ post-fields<br>
         category:womens<br>
 
 #How run project in local
-1. run the below git command
+1. run the below git commands<br>
    git clone https://github.com/mahendramourya/img-global.git
 2. composer update
 3. php artisan migrate:fresh --seed
